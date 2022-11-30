@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+.and{
+    font-size: 30px;
+}
+
+#timer{
+    float: right;
+    margin-right: 15px ;
+}
+
+#score{
+    margin-left: 15px;
+}
+
+.pees{
+    font-size: 30px;
+}
+
+#sketch_needed{
+    color: red;
+}
+
+.hs{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#show_sketch{
+    float: right;
+    margin-right: 30px;
+}
